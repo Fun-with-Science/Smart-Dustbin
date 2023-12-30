@@ -1,5 +1,3 @@
-//fun with science
-
 #include <Servo.h>
 #define trigPin 12
 #define echoPin 11
